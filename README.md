@@ -246,8 +246,8 @@ show_image(cropped_image)
 
 ### iv)Image Reflection
 
-![image](./images/4.png)
-![image](./images/5.png)
+![image](./images/updated5i.png)
+![image](./images/updated5ii.png)
 
 
 
